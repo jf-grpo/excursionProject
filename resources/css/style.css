@@ -11,6 +11,11 @@ body {
     text-align: center;
     background-color: black;
 }
+
+a {
+    color: aquamarine;
+}
+
 /* h1 font size = 50 px */
 h1 {
     color: white;
@@ -23,7 +28,7 @@ h2 {
     font-size: 42px;
 }
 
-#download {
+.download {
     color: aquamarine;
     font-size:16px;
 }
